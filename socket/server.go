@@ -2,8 +2,8 @@ package socket
 
 import (
 	"bufio"
-	"example.com/gows/constant"
 	"fmt"
+	"github.com/GalihFajar/gows/constant"
 	"io"
 	"net"
 	"net/http"

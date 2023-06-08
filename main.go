@@ -1,6 +1,6 @@
 package main
 
-import "example.com/gows/socket"
+import "github.com/GalihFajar/gows/socket"
 
 func main() {
 	socket.StartServer()
